@@ -8,3 +8,7 @@
   <li>Qualquer célula morta com exatamente três vizinhos vivos se torna uma célula viva.</li>
   <li>Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.</li>
 </ol>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46384388/174087271-5672a984-ebb6-4c28-a58c-1cf203815a2f.jpg" width="500" height="500" >
+</p>
+
